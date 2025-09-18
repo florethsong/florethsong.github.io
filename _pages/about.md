@@ -27,6 +27,10 @@ Prior to my PhD study, I received my MA from Shanghai International Studies Univ
 
 Outside of research, I enjoy biking, hiking, skiing, and exploring cities for something fresh to me!
 
+
+# CV
+See more in my [CV]() :).
+
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="sym" width="31%"></div></div>
@@ -108,6 +112,3 @@ Jianfei, Ma, Zhaoxin Feng, **Huacheng Song**, Emmanuele Chersoni, Zheng Chen
 
 </div>
 </div>
-
-# CV
-See more in my [CV]() :). Hope to share insights with you!
