@@ -29,7 +29,7 @@ Outside of research, I enjoy biking, hiking, skiing, and exploring cities for so
 
 
 # CV
-See more in my [CV]() :).
+See more in my <a href='docs/Academic-CV_Huacheng SONG'>[CV]</a> :).
 
 # Publications 
 
