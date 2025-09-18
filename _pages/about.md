@@ -108,8 +108,6 @@ Jianfei Ma, Zhaoxin Feng, **Huacheng Song**, Emmanuele Chersoni, Zheng Chen
 
 [LLMが機械翻訳を捉えた桎梏から脱したのか―翻訳創造性について― (Translational Creativity: Can Large Language Model Break Free from the Shackles on Machine Translation?)](https://scholar.google.com/scholar?oi=bibs&cluster=17822115525222663495&btnI=1&hl=en)
 
-<a href="https://mapmyvisitors.com/web/1bzev" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=2bGItdE407btVFIY51WtAAsVnIVrXAOokjE89K6VuAQ&cl=ffffff"></a>
-
 **Huacheng Song**, Haoying Yang, Hongzhi Xu
 
 </div>
