@@ -23,7 +23,7 @@ baidu_site_verification  :  false # get baidu_site_verification from https://ziy
 author:
   name             : "Huacheng SONG"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hi! I'm Huacheng SONG, currently a second-year PhD student in Computational Linguistics in the Department of Language Science and Technology at the Hong Kong Polytechnic University. I am fortunate to be jointly supervised by Prof. Che-Ren HUANG and Prof. Emmanuele CHERSONI.<br>My most recent research interest lies in the interpretability of generative language models, specifically on probing into the “machine psychology” and computational creativity embedded in these models through the lenses of psycholinguistics and cognitive linguistics.<br>Prior to my PhD study, I received my MA from Shanghai International Studies University, where I was advised by Prof. Hongzhi XU and working on multiword expression- and creativity-aware machine translation and the development of its corresponding evaluation metrics.<br>Outside of research, I enjoy biking, hiking, and skiing and explore cities for something fresh to me!"
+  bio              : #"Hi! I'm Huacheng SONG, currently a second-year PhD student in Computational Linguistics in the Department of Language Science and Technology at the Hong Kong Polytechnic University. I am fortunate to be jointly supervised by Prof. Che-Ren HUANG and Prof. Emmanuele CHERSONI.<br>My most recent research interest lies in the interpretability of generative language models, specifically on probing into the “machine psychology” and computational creativity embedded in these models through the lenses of psycholinguistics and cognitive linguistics.<br>Prior to my PhD study, I received my MA from Shanghai International Studies University, where I was advised by Prof. Hongzhi XU and working on multiword expression- and creativity-aware machine translation and the development of its corresponding evaluation metrics.<br>Outside of research, I enjoy biking, hiking, and skiing and explore cities for something fresh to me!"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Floret Huacheng Song" # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/325/4598.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-9915-3398" # e.g., "https://orcid.org/xxxx"
+  linkedin         : #"Floret Huacheng Song" # e.g., "linkedin username"
+  dblp             : #"https://dblp.org/pid/325/4598.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0009-0007-9915-3398" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
