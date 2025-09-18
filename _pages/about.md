@@ -29,7 +29,7 @@ Outside of research, I enjoy biking, hiking, skiing, and exploring cities for so
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PhonoThink: Improving Large Language Models' Reasoning on Chinese Phonological Ambiguities.](https://openreview.net/pdf?id=ER6JwcWcOE)
@@ -39,7 +39,7 @@ Jianfei, Ma, Zhaoxin Feng, Emmanuele Chersoni, **Huacheng Song**, Ziqi Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWCS 2025</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWCS 2025</div><img src='images/500x300.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Which Model Mimics Human Mental Lexicon Better? A Comparative Study of Word Embedding and Generative Models](https://preview.aclanthology.org/iwcs-25-ingestion/2025.iwcs-1.20.pdf)
@@ -49,7 +49,7 @@ Jianfei, Ma, Zhaoxin Feng, Emmanuele Chersoni, **Huacheng Song**, Ziqi Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LM4DH 2025</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LM4DH 2025</div><img src='images/500x300.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Can LLMs Help Sun Wukong in his Journey to the West? A Case Study of Language Models in Video Game Localization](https://www.researchgate.net/publication/395326913_Can_LLMs_Help_Sun_Wukong_in_his_Journey_to_the_West_A_Case_Study_of_Language_Models_in_Video_Game_Localization)
@@ -59,7 +59,7 @@ Xiaojing Zhao, Han Xu, **Huacheng Song**, Emmanuele Chersoni, Chu-ren Huang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KnowFM 2025</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KnowFM 2025</div><img src='images/500x300.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reasoning or Memorization? Investigating LLMs’ Capability in Restoring Chinese Internet Homophones](https://aclanthology.org/2025.knowllm-1.11.pdf)
@@ -69,7 +69,7 @@ Jianfei, Ma, Zhaoxin Feng, **Huacheng Song**, Emmanuele Chersoni, Zheng Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMT 2024</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMT 2024</div><img src='images/500x300.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [How Grammatical Features Impact Machine Translation: A New Test Suite for Chinese-English MT Evaluation](https://aclanthology.org/2024.wmt-1.117.pdf)
@@ -79,7 +79,7 @@ Jianfei, Ma, Zhaoxin Feng, **Huacheng Song**, Emmanuele Chersoni, Zheng Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 (Findings)</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 (Findings)</div><img src='images/500x300.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Deep Analysis of the Impact of Multiword Expressions and Named Entities on Chinese-English Machine Translations](https://aclanthology.org/2024.findings-emnlp.357.pdf)
@@ -89,7 +89,7 @@ Jianfei, Ma, Zhaoxin Feng, **Huacheng Song**, Emmanuele Chersoni, Zheng Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-COLING 2024</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-COLING 2024</div><img src='images/500x300.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Benchmarking the Performance of Machine Translation Evaluation Metrics with Chinese Multiword Expressions](https://aclanthology.org/2024.lrec-main.198.pdf)
@@ -99,7 +99,7 @@ Jianfei, Ma, Zhaoxin Feng, **Huacheng Song**, Emmanuele Chersoni, Zheng Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NLP-Japan 2024</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NLP-Japan 2024</div><img src='images/500x300.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLMが機械翻訳を捉えた桎梏から脱したのか―翻訳創造性について― (Translational Creativity: Can Large Language Model Break Free from the Shackles on Machine Translation?)](https://scholar.google.com/scholar?oi=bibs&cluster=17822115525222663495&btnI=1&hl=en)
