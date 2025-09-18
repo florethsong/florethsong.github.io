@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : #"Floret Huacheng Song" # e.g., "linkedin username"
   dblp             : #"https://dblp.org/pid/325/4598.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : #"https://orcid.org/my-orcid?orcid=0009-0007-9915-3398" # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-9915-3398" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
