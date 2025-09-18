@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Huacheng SONG" # "Lorem ipsum"
+description              : "✨ Welcome to the Academicland of Floret Huacheng SONG! ✨"
+repository               : "florethsong/florethsong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  true # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification :  false # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  false # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  false # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Huacheng SONG"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Hi! I'm Huacheng SONG, currently a second-year PhD student in Computational Linguistics in the Department of Language Science and Technology at the Hong Kong Polytechnic University. I am fortunate to be jointly supervised by Prof. Che-Ren HUANG and Prof. Emmanuele CHERSONI.<br>My most recent research interest lies in the interpretability of generative language models, specifically on probing into the “machine psychology” and computational creativity embedded in these models through the lenses of psycholinguistics and cognitive linguistics.<br>Prior to my PhD study, I received my MA from Shanghai International Studies University, where I was advised by Prof. Hongzhi XU and working on multiword expression- and creativity-aware machine translation and the development of its corresponding evaluation metrics.<br>Outside of research, I enjoy biking, hiking, and skiing and explore cities for something fresh to me!"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=pljOT4sAAAAJ&hl"
+  email            : "shc0366@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Huacheng-Song?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJsb2dpbiIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "florethsong" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : "Floret Huacheng Song" # e.g., "linkedin username"
+  dblp             : "https://dblp.org/pid/325/4598.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-9915-3398" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
