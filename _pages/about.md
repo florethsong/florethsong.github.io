@@ -33,7 +33,7 @@ See more in my [CV]() :).
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/1.png' alt="sym" width="31%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/1.png' alt="sym" width="41%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PhonoThink: Improving Large Language Models' Reasoning on Chinese Phonological Ambiguities.](https://openreview.net/pdf?id=ER6JwcWcOE)
@@ -43,7 +43,7 @@ Jianfei, Ma, Zhaoxin Feng, Emmanuele Chersoni, **Huacheng Song**, Ziqi Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWCS 2025</div><img src='images/2.png' alt="sym" width="31%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWCS 2025</div><img src='images/2.png' alt="sym" width="41%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Which Model Mimics Human Mental Lexicon Better? A Comparative Study of Word Embedding and Generative Models](https://preview.aclanthology.org/iwcs-25-ingestion/2025.iwcs-1.20.pdf)
