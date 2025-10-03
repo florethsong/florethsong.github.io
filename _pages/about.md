@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Huacheng SONG, currently a second-year PhD student in Computational Linguistics in the Department of Language Science and Technology at the Hong Kong Polytechnic University. I am fortunate to be jointly supervised by <a href='https://research.polyu.edu.hk/en/persons/chu-ren-huang'>Prof. Che-Ren HUANG</a> and <a href='https://research.polyu.edu.hk/en/persons/emmanuele-chersoni'>Prof. Emmanuele CHERSONI</a>.
+Hi! I'm Huacheng SONG, currently a second-year PhD student in Computational Linguistics in the Department of Language Science and Technology at the Hong Kong Polytechnic University. I am fortunate to be jointly supervised by <a href='https://research.polyu.edu.hk/en/persons/chu-ren-huang'>Prof. Chu-Ren HUANG</a> and <a href='https://research.polyu.edu.hk/en/persons/emmanuele-chersoni'>Prof. Emmanuele CHERSONI</a>.
 
 My most recent research interest lies in the interpretability of generative language models, specifically on probing into the “machine psychology” and computational creativity embedded in these models through the lenses of psycholinguistics and cognitive linguistics.
 
