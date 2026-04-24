@@ -29,7 +29,7 @@ Outside of research, I enjoy biking, hiking, skiing, and exploring cities for so
 
 
 # CV
-See more in my <a href='https://drive.google.com/file/d/1HM4-v6jB2P96zu9uvW9sXw6rNU3ib3zK/view?usp=drive_link'>[CV]</a> :).
+See more in my <a href='https://drive.google.com/file/d/1FIzz-RDEBao2-KfTLjQDKcpq81SiNs83/view?usp=drive_link'>[CV]</a> :).
 
 # Publications 
 
